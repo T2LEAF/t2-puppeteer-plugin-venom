@@ -1,6 +1,6 @@
 # lib-name
 
-[![npm version](https://badge.fury.io/js/t2-puppeteer-plugin-block-resources.svg)](https://badge.fury.io/js/lib-name)
+[![npm version](https://badge.fury.io/js/lib-name.svg)](https://badge.fury.io/js/lib-name)
 
 ## Description
 
